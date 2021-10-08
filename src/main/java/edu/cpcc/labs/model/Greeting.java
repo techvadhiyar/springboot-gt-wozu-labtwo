@@ -30,7 +30,7 @@ public class Greeting {
 		builder.append(":");
 		builder.append(this.getMessage());
 		builder.append(",");	
-		builder.append("Have a nice day !!");
+		builder.append("Testing with Git Hub and Travis CI !!");
 		return builder.toString();
 	}
 }
